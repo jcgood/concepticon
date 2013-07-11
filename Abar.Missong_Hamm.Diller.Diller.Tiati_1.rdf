@@ -1,0 +1,1438 @@
+<rdf:RDF xmlns="http://purl.org/linguistics/gold/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:gold="http://purl.org/linguistics/gold/"
+    xmlns:lego="http://purl.org/linguistics/lego/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/">
+
+    <rdf:Description rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/">
+        <dc:created></dc:created>
+        <dc:subject rdf:resource="http://www.sil.org/ISO639-3/documentation.asp?id=mij"/>
+        <dcterms:creator>Paul Whitehouse</dcterms:creator>
+        <dcterms:creator>Tim Usher</dcterms:creator>
+        <dcterms:source>Tim Usher and Paul Whitehouse 2008</dcterms:source>
+        <lego:alternateNames>Abar  [?Missong]</lego:alternateNames>
+    </rdf:Description>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/100-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ibu</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1011-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idži</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1021-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>imu</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1023-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idzan </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1023-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>išahaʔšiši </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1028-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>imam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1084-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iši ’meat</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1084-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>animal’</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/109-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ugoho</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/111-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>munyam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1123-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>mwɛntšam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/113-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>mumboho</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1140-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iyišyɛ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/117-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itaha</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1212-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ukpwi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1270-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ifəlo </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/129-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ikwan</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1312-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ugbɔn</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1317-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idžən</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1328-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kəti</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/134-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>uno ’man</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/134-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>person’</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/135-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>uno ’man</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/135-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>person’</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/136-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>utšelo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1395-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idzəm</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/143-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>wan</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1455-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ogbe</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1458-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itsɑmhɛ </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1469-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>šišyo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/147-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>nam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1485-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>isəno</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1494-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itəlo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1502-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iwuŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1505-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>džihɛ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1507-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iwu</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1580-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>igbwi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1599-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>e</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1600-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ifɔfɔ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1610-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>nən</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1613-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>džən </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1621-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>tʰi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1646-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ilaha</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1649-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itsan </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1686-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ɛnɛ </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1686-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>tənɛn </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1843-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kumu</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1844-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>bigin</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1845-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>bite</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1846-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>binyi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1847-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kpan</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1848-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>bilite</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1849-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>binyite</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1850-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>binəne</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1851-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>pənənyi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1852-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>tšuhe</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1875-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itaŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1953-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>butu</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2006-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iŋo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2011-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itsaŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2015-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itoɣo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2083-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>isəno</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2110-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idžu </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2114-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ikɔŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2142-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itsa</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2199-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iyam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2215-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ibyaŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2223-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iya</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2298-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ewɔm </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2317-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>eyuŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2385-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idža</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/27-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>anya</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/3-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>muntyam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/313-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iši ’meat</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/313-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>animal’</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/337-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ibwi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/382-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idzu</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/396-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ibi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/469-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>nsi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/49-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ušaŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/502-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>toloki</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/512-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>šinyuŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/598-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kɛbɛlo ’wing</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/598-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>eather’</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/599-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kɛbɛlo ’wing</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/599-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>eather’</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/613-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>isu</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/67-2">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kəka</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/716-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>šiŋkɑhɑygbɑŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/72-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ubolo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/73-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>uwaha</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/730-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>igobo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/736-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ufwi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/74-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>uwe</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/742-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ənšyəm</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/746-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kɛkafo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/749-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ikpaha</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/755-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kifwɔmwɔ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/757-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>uyəm</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/763-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ifɛ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/775-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idzihi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/785-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kətɔŋɔ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/789-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>enyəŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/795-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ofən</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/8-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>mʷɛnšaŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/800-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>elam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/801-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idzən</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/811-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>omo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/812-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idzamomo </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/822-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itsan </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/828-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itsan </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/842-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itšaha</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/843-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iyaŋ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/854-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ukɔhɔ</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/862-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ibən</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/865-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itsam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/866-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>əmbi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/877-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kiyə </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/884-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ibɔhɔ </stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/916-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>itu</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/917-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>iŋan</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/918-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>inam</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/933-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ənyihi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/94-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>mundžɛn</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/948-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ibi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/954-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ipʰi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/958-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ilipʰi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/96-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>ugbaha</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/961-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>idži</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/977-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>imwi</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <LinguisticSign rdf:about="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/98-1">
+        <hasForm rdf:parseType="Resource">
+            <rdf:type rdf:resource="http://purl.org/linguistics/gold/FormUnit"/>
+            <stringRep>kɨdzɨmo</stringRep>
+        </hasForm>
+    </LinguisticSign>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/100">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/100-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1011">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1011-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1021">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1021-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1023">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1023-1"/>
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1023-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1028">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1028-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1084">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1084-1"/>
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1084-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/109">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/109-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/111">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/111-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1123">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1123-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/113">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/113-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1140">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1140-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/117">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/117-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1212">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1212-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1270">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1270-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/129">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/129-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1312">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1312-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1317">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1317-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1328">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1328-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/134">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/134-1"/>
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/134-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/135">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/135-1"/>
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/135-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/136">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/136-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1395">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1395-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/143">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/143-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1455">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1455-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1458">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1458-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1469">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1469-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/147">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/147-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1485">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1485-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1494">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1494-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1502">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1502-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1505">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1505-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1507">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1507-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1580">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1580-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1599">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1599-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1600">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1600-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1610">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1610-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1613">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1613-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1621">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1621-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1646">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1646-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1649">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1649-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1686">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1686-1"/>
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1686-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1843">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1843-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1844">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1844-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1845">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1845-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1846">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1846-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1847">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1847-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1848">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1848-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1849">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1849-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1850">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1850-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1851">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1851-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1852">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1852-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1875">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1875-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/1953">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/1953-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2006">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2006-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2011">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2011-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2015">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2015-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2083">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2083-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2110">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2110-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2114">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2114-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2142">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2142-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2199">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2199-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2215">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2215-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2223">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2223-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2298">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2298-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2317">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2317-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/2385">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/2385-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/27">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/27-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/3">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/3-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/313">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/313-1"/>
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/313-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/337">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/337-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/382">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/382-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/396">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/396-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/469">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/469-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/49">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/49-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/502">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/502-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/512">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/512-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/598">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/598-1"/>
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/598-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/599">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/599-1"/>
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/599-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/613">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/613-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/67">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/67-2"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/716">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/716-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/72">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/72-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/73">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/73-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/730">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/730-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/736">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/736-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/74">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/74-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/742">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/742-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/746">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/746-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/749">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/749-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/755">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/755-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/757">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/757-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/763">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/763-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/775">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/775-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/785">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/785-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/789">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/789-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/795">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/795-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/8">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/8-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/800">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/800-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/801">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/801-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/811">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/811-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/812">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/812-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/822">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/822-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/828">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/828-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/842">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/842-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/843">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/843-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/854">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/854-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/862">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/862-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/865">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/865-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/866">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/866-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/877">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/877-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/884">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/884-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/916">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/916-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/917">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/917-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/918">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/918-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/933">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/933-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/94">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/94-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/948">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/948-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/954">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/954-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/958">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/958-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/96">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/96-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/961">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/961-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/977">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/977-1"/>
+    </skos:concept>
+
+    <skos:concept rdf:about="http://purl.org/linguistics/lego/concept/98">
+        <lego:hasCounterpart rdf:resource="http://purl.org/linguistics/Abar.Missong_Hamm.Diller.Diller.Tiati_1/98-1"/>
+    </skos:concept>
+
+    <rdf:Description rdf:about="http://purl.org/linguistics/lego/concepticon/Lego-Unified">
+        <dc:title>LEGO Project Unified Concepticon</dc:title>
+    </rdf:Description>
+</rdf:RDF>
